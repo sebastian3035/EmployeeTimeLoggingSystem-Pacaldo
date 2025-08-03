@@ -67,10 +67,10 @@ This project is a complete **Employee Time Logging System** using **PHP PDO** an
 ---
 
 ## Notes
-Passwords are securely hashed using password_hash()
-Secure login sessions for Admin and Employees
-All database interactions use PDO with prepared statements
-Responsive design using Bootstrap
+- Passwords are securely hashed using password_hash()
+- Secure login sessions for Admin and Employees
+- All database interactions use PDO with prepared statements
+- Responsive design using Bootstrap
 
 ---
 
@@ -91,8 +91,8 @@ Live Demo: https://yourdomain.infinityfreeapp.com
 ---
 
 ## Author
-Developed by **Sebastian Pacaldo**
-As part of the course **IT6314 – Web Application Development 1**
+Developed by **Sebastian Pacaldo** as part of the course **IT6314 – Web Application Development 1**
+
 
 
 
