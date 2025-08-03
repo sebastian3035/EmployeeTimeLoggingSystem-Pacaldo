@@ -68,18 +68,18 @@ $dbname = "epiz_XXX_timelogdb";   // Replace with your DB name
 $username = "epiz_XXX";           // Replace with your DB username
 $password = "your_password";      // Replace with your DB password
 
-##Notes
+**### Notes**
 Passwords are securely hashed using password_hash()
 Secure login sessions for Admin and Employees
 All database interactions use PDO with prepared statements
 Responsive design using Bootstrap
 
-##Online Deployment (Optional)
+## Online Deployment (Optional)
 Hosting: InfinityFree
 Live Demo: https://yourdomain.infinityfreeapp.com  
 >Replace the above link with your actual InfinityFree domain if deployed.
 
-##Login Credentials (Sample)
+## Login Credentials (Sample)
 | Role     | Username  | Password  |
 |----------|-----------|-----------|
 | Admin    | admin     | admin123  |
@@ -87,6 +87,7 @@ Live Demo: https://yourdomain.infinityfreeapp.com
 
 >You may update credentials directly in the database or through the Change Credentials tab.
 
-##Author
+## Author
 Developed by **Sebastian Pacaldo**
+
 As part of the course **IT6314 – Web Application Development 1**
