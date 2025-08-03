@@ -66,7 +66,7 @@ This project is a complete **Employee Time Logging System** using **PHP PDO** an
 $host = "sqlXXX.infinityfree.com"; // Replace with your DB host
 $dbname = "epiz_XXX_timelogdb";   // Replace with your DB name
 $username = "epiz_XXX";           // Replace with your DB username
-$password = "your_password";      // Replace with your DB password.
+$password = "your_password";      // Replace with your DB password
 
 ---
 
@@ -97,5 +97,6 @@ Live Demo: https://yourdomain.infinityfreeapp.com
 ## Author
 Developed by **Sebastian Pacaldo**
 As part of the course **IT6314 – Web Application Development 1**
+
 
 
